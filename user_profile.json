@@ -1,0 +1,75 @@
+{
+    "personal_info": {
+        "name": "Vishesh Rawal",
+        "email": "vp2005rawal@gmail.com",
+        "phone": "8890118309",
+        "location": "Udaipur, Rajasthan",
+        "bio": "A tech prodigy, Mentor at HackMIT massachusetts Institute of Technology, United States of America. He's known for his passion in computer science and mathematics, also he's much more interested in research fields and buildany real life projects that helped him achieve a state of a genius and he's World's top 0.1% and a very great personality. He's real life iron Man aka Genius Tony Stark.",
+        "skills": [
+            "Javascript",
+            "python",
+            "typescript",
+            "c",
+            "c++",
+            "Golang",
+            "rust",
+            "AWS",
+            "ec2",
+            "sns",
+            "sqs",
+            "dynamodb",
+            "mongodb",
+            "postgresql",
+            "nginx",
+            "haproxy",
+            "pytorch",
+            "Tensorflow",
+            "openCV",
+            "tensorRT",
+            "Edge AI",
+            "Robotics"
+        ]
+    },
+    "social_links": [
+        {
+            "platform": "https://linkedin.com/in/visheshrawal",
+            "url": "https://GitHub.com/visheshrwl"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Thapar Institute of Engineering and Technology ",
+            "degree": "Bachelor of Engineering ",
+            "field_of_study": "Computer Science ",
+            "start_year": 2020,
+            "end_year": 2021
+        }
+    ],
+    "work_experience": [],
+    "projects": [
+        {
+            "name": "Advanced Computer Vision for Public Governance",
+            "description": "A multi-camera surveillance AI system installed at the police commissioner's office in Ahmedabad. It features semantic segmentation, action recognition, optical flow, object detection, and real-time monitoring of public spaces.",
+            "github": "",
+            "live_link": ""
+        },
+        {
+            "name": "GAN-based Nanoscale Image Enhancement Model",
+            "description": "A deep learning model for enhancing nanoscale images using GANs, improving clarity and resolution at atomic and molecular levels.",
+            "github": "",
+            "live_link": ""
+        },
+        {
+            "name": "Large Language Model (LLM) Development",
+            "description": "A project to build an LLM from scratch, aiming for performance equivalent to GPT-2.0, developed iteratively for improved NLP applications.",
+            "github": "",
+            "live_link": ""
+        },
+        {
+            "name": "Uber-like Application for Delivery & Cab Services",
+            "description": "A modern Uber-like platform providing both delivery and cab services. It utilizes Docker, Kubernetes, TypeScript, React, GraphQL, Redis, Kafka, and advanced routing algorithms.",
+            "github": "",
+            "live_link": ""
+        }
+    ]
+}
